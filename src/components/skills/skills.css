@@ -1,0 +1,26 @@
+.text-box p{
+    font-size: 18px;
+    font-family: font-serif ;
+    line-height: 1.9;
+    padding-bottom: 1rem;
+    color:#a0aec0;
+    opacity: .7;   
+}
+.icon {
+    color: #a0aec0;
+    font-size: 2rem;
+  }
+
+.col-2 h1{
+    font-family: w;
+    font-size: 80px;
+    text-transform: capitalize;
+    z-index: 100;
+}
+
+ span{
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing:3px;
+    opacity: .7;
+}
