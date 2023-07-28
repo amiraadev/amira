@@ -18,11 +18,11 @@ export default {
         montserrat: ["Montserrat", "sans-serif"],
       },
     },
-    screens: {
-      xs: "480px",
-      sm: "768px",
-      md: "1060px",
-    },
+    // screens: {
+    //   xs: "480px",
+    //   sm: "768px",
+    //   md: "1060px",
+    // },
   },
   plugins: [],
 }
